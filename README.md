@@ -1,6 +1,6 @@
 # 👊 ✋ ✌️ Rock-Paper-Scissors
 
-Welcome! This is **my first project** on my journey to learning web development. I built this to practice and apply the absolute basics of **HTML5**, **CSS3**, and **JavaScript**.
+Welcome! This is **my first project** on my journey to learning web development. I built this to practice and apply the absolute basics of **HTML5**, **CSS3** and **JavaScript**.
 
 ## 🎮 About the Project
 
@@ -18,8 +18,8 @@ The rules are exactly what you would expect:
 ## 🛠️ Built With
 
 * **HTML5** – For the page structure and game buttons.
-* **CSS3** – For the flexbox layout, gradients, colors, and smooth hover effects.
-* **JavaScript** – For the game logic, computer random generation, and updating results dynamically.
+* **CSS3** – For the flexbox layout, gradients, colors and smooth hover effects.
+* **JavaScript** – For the game logic, computer random generation and updating results dynamically.
 
 
 ## 🚀 How to Play
