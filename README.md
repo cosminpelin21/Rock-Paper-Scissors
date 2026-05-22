@@ -28,5 +28,5 @@ The rules are exactly what you would expect:
 2. Click on any of the three large emoji buttons to make your move.
 3. The computer will instantly make its choice, and the result banner will dynamically change colors (Green = Win, Red = Lose, Gray = Draw).
 
-## Screenshot
+## 📷 Screenshot
 ![Game](Game.png)
