@@ -62,6 +62,6 @@ h3{
 #resultDisplay{
     font-size: 2em;
     border: 3px solid rgb(109,153,255);
-    border-padding: 0.5em;
+    border-radius: 0.5em;
     padding: 10px 50px;
 }
